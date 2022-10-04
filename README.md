@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/R.9d7f465640409458b81bc841e29b2663?rik=6Vm%2ft0xpeq%2fRzA&riu=http%3a%2f%2fwww.wallpapersin4k.org%2fwp-content%2fuploads%2f2017%2f04%2fStatistics-Wallpaper-6.jpg&ehk=%2bGNUTRTOOwgGJhlaZifwnP%2fmYDnzgqPU09dREogHVCQ%3d&risl=&pid=ImgRaw&r=0)]
 
-<h1 align="center">Hi 👋, I'm Rajesh Majumder</h1>
+<h1 align="center">Hi 👋, I'm Rajesh</h1>
 <h3 align="center">A passionate statistician from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
