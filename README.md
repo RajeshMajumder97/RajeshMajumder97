@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajeshnbp9051@gmail.com** **+91,9051745225**
 
-- 🌱 Masters in Statistics from WBSU
+- 🌱 Pursuing PhD in Biostatistics from MAHE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
